@@ -1,0 +1,427 @@
+TEST
+==========================================================
+==========================================================
+==========================================================
+BubbleSortStrategy@5e2de80c
+Array sized 1024 ascending sorted 
+9.0
+7814.0
+Array sized 1024 descending sorted 
+14703.0
+Array sized 1024 same elements sorted 
+10.0
+Array sized 1024 random sorted 
+19038.0
+Array sized 2048 ascending sorted 
+113.0
+Array sized 2048 descending sorted 
+4516.0
+Array sized 2048 same elements sorted 
+99.0
+Array sized 2048 random sorted 
+48033.0
+Array sized 4096 ascending sorted 
+244.0
+Array sized 4096 descending sorted 
+17838.0
+Array sized 4096 same elements sorted 
+169.0
+Array sized 4096 random sorted 
+38655.0
+Array sized 4096 ascending sorted 
+415.0
+Array sized 8192 descending sorted 
+52034.0
+Array sized 8192 same elements sorted 
+458.0
+Array sized 8192 random sorted 
+185505.0
+Array sized 16384 ascending sorted 
+1221.0
+Array sized 16384 descending sorted 
+286172.0
+Array sized 16384 same elements sorted 
+47.0
+Array sized 16384 random sorted 
+735543.0
+Array sized 32768 ascending sorted 
+1043231.0
+Array sized 32768 descending sorted 
+532476.0
+Array sized 32768 same elements sorted 
+14.0
+Array sized 32768 random sorted 
+2017569.0
+==========================================================
+==========================================================
+==========================================================
+InsertionSortStrategy@1d44bcfa
+Array sized 1024 ascending sorted 
+0.0
+56.0
+Array sized 1024 descending sorted 
+8426.0
+Array sized 1024 same elements sorted 
+8.0
+Array sized 1024 random sorted 
+6347.0
+Array sized 2048 ascending sorted 
+6.0
+Array sized 2048 descending sorted 
+4303.0
+Array sized 2048 same elements sorted 
+4.0
+Array sized 2048 random sorted 
+2173.0
+Array sized 4096 ascending sorted 
+58.0
+Array sized 4096 descending sorted 
+17817.0
+Array sized 4096 same elements sorted 
+49.0
+Array sized 4096 random sorted 
+8209.0
+Array sized 4096 ascending sorted 
+87.0
+Array sized 8192 descending sorted 
+69861.0
+Array sized 8192 same elements sorted 
+14.0
+Array sized 8192 random sorted 
+34917.0
+Array sized 16384 ascending sorted 
+76.0
+Array sized 16384 descending sorted 
+281161.0
+Array sized 16384 same elements sorted 
+25.0
+Array sized 16384 random sorted 
+130569.0
+Array sized 32768 ascending sorted 
+538602.0
+Array sized 32768 descending sorted 
+1052490.0
+Array sized 32768 same elements sorted 
+99.0
+Array sized 32768 random sorted 
+528468.0
+==========================================================
+==========================================================
+==========================================================
+SelectionSortStrategy@266474c2
+Array sized 1024 ascending sorted 
+0.0
+191.0
+Array sized 1024 descending sorted 
+4046.0
+Array sized 1024 same elements sorted 
+9.0
+Array sized 1024 random sorted 
+4134.0
+Array sized 2048 ascending sorted 
+18.0
+Array sized 2048 descending sorted 
+7672.0
+Array sized 2048 same elements sorted 
+206.0
+Array sized 2048 random sorted 
+5665.0
+Array sized 4096 ascending sorted 
+221.0
+Array sized 4096 descending sorted 
+22675.0
+Array sized 4096 same elements sorted 
+185.0
+Array sized 4096 random sorted 
+22257.0
+Array sized 4096 ascending sorted 
+397.0
+Array sized 8192 descending sorted 
+90861.0
+Array sized 8192 same elements sorted 
+340.0
+Array sized 8192 random sorted 
+108983.0
+Array sized 16384 ascending sorted 
+789.0
+Array sized 16384 descending sorted 
+380434.0
+Array sized 16384 same elements sorted 
+45.0
+Array sized 16384 random sorted 
+375250.0
+Array sized 32768 ascending sorted 
+1454892.0
+Array sized 32768 descending sorted 
+1466576.0
+Array sized 32768 same elements sorted 
+14.0
+Array sized 32768 random sorted 
+1444786.0
+==========================================================
+==========================================================
+==========================================================
+CombSortStrategy@6f94fa3e
+Array sized 1024 ascending sorted 
+0.0
+206.0
+Array sized 1024 descending sorted 
+735.0
+Array sized 1024 same elements sorted 
+51.0
+Array sized 1024 random sorted 
+850.0
+Array sized 2048 ascending sorted 
+88.0
+Array sized 2048 descending sorted 
+1253.0
+Array sized 2048 same elements sorted 
+160.0
+Array sized 2048 random sorted 
+586.0
+Array sized 4096 ascending sorted 
+56.0
+Array sized 4096 descending sorted 
+521.0
+Array sized 4096 same elements sorted 
+39.0
+Array sized 4096 random sorted 
+1098.0
+Array sized 4096 ascending sorted 
+149.0
+Array sized 8192 descending sorted 
+545.0
+Array sized 8192 same elements sorted 
+72.0
+Array sized 8192 random sorted 
+1045.0
+Array sized 16384 ascending sorted 
+394.0
+Array sized 16384 descending sorted 
+1591.0
+Array sized 16384 same elements sorted 
+269.0
+Array sized 16384 random sorted 
+2930.0
+Array sized 32768 ascending sorted 
+968.0
+Array sized 32768 descending sorted 
+963.0
+Array sized 32768 same elements sorted 
+65.0
+Array sized 32768 random sorted 
+3043.0
+==========================================================
+==========================================================
+==========================================================
+ShellSortStrategy@5e481248
+Array sized 1024 ascending sorted 
+0.0
+189.0
+Array sized 1024 descending sorted 
+805.0
+Array sized 1024 same elements sorted 
+52.0
+Array sized 1024 random sorted 
+1348.0
+Array sized 2048 ascending sorted 
+89.0
+Array sized 2048 descending sorted 
+1431.0
+Array sized 2048 same elements sorted 
+151.0
+Array sized 2048 random sorted 
+775.0
+Array sized 4096 ascending sorted 
+54.0
+Array sized 4096 descending sorted 
+555.0
+Array sized 4096 same elements sorted 
+36.0
+Array sized 4096 random sorted 
+1690.0
+Array sized 4096 ascending sorted 
+90.0
+Array sized 8192 descending sorted 
+762.0
+Array sized 8192 same elements sorted 
+71.0
+Array sized 8192 random sorted 
+2091.0
+Array sized 16384 ascending sorted 
+873.0
+Array sized 16384 descending sorted 
+847.0
+Array sized 16384 same elements sorted 
+725.0
+Array sized 16384 random sorted 
+3918.0
+Array sized 32768 ascending sorted 
+689.0
+Array sized 32768 descending sorted 
+1025.0
+Array sized 32768 same elements sorted 
+151.0
+Array sized 32768 random sorted 
+9840.0
+==========================================================
+==========================================================
+==========================================================
+MergeSortStrategy@66d3c617
+Array sized 1024 ascending sorted 
+0.0
+196.0
+Array sized 1024 descending sorted 
+1073.0
+Array sized 1024 same elements sorted 
+55.0
+Array sized 1024 random sorted 
+286.0
+Array sized 2048 ascending sorted 
+94.0
+Array sized 2048 descending sorted 
+797.0
+Array sized 2048 same elements sorted 
+171.0
+Array sized 2048 random sorted 
+939.0
+Array sized 4096 ascending sorted 
+1554.0
+Array sized 4096 descending sorted 
+1614.0
+Array sized 4096 same elements sorted 
+289.0
+Array sized 4096 random sorted 
+2093.0
+Array sized 4096 ascending sorted 
+1254.0
+Array sized 8192 descending sorted 
+3267.0
+Array sized 8192 same elements sorted 
+374.0
+Array sized 8192 random sorted 
+3681.0
+Array sized 16384 ascending sorted 
+1192.0
+Array sized 16384 descending sorted 
+2919.0
+Array sized 16384 same elements sorted 
+799.0
+Array sized 16384 random sorted 
+11286.0
+Array sized 32768 ascending sorted 
+9047.0
+Array sized 32768 descending sorted 
+5216.0
+Array sized 32768 same elements sorted 
+706.0
+Array sized 32768 random sorted 
+8562.0
+==========================================================
+==========================================================
+==========================================================
+QuickSortStrategy@63947c6b
+Array sized 1024 ascending sorted 
+0.0
+186.0
+Array sized 1024 descending sorted 
+8507.0
+Array sized 1024 same elements sorted 
+83.0
+Array sized 1024 random sorted 
+207.0
+Array sized 2048 ascending sorted 
+178.0
+Array sized 2048 descending sorted 
+5376.0
+Array sized 2048 same elements sorted 
+149.0
+Array sized 2048 random sorted 
+204.0
+Array sized 4096 ascending sorted 
+582.0
+Array sized 4096 descending sorted 
+8456.0
+Array sized 4096 same elements sorted 
+231.0
+Array sized 4096 random sorted 
+301.0
+Array sized 4096 ascending sorted 
+367.0
+Array sized 8192 descending sorted 
+34107.0
+Array sized 8192 same elements sorted 
+329.0
+Array sized 8192 random sorted 
+631.0
+Array sized 16384 ascending sorted 
+828.0
+Array sized 16384 descending sorted 
+147145.0
+Array sized 16384 same elements sorted 
+856.0
+Array sized 16384 random sorted 
+1393.0
+Array sized 32768 ascending sorted 
+397036.0
+Array sized 32768 descending sorted 
+561340.0
+Array sized 32768 same elements sorted 
+308.0
+Array sized 32768 random sorted 
+3016.0
+==========================================================
+==========================================================
+==========================================================
+HeapSortStrategy@2b193f2d
+Array sized 1024 ascending sorted 
+0.0
+160.0
+Array sized 1024 descending sorted 
+630.0
+Array sized 1024 same elements sorted 
+69.0
+Array sized 1024 random sorted 
+243.0
+Array sized 2048 ascending sorted 
+145.0
+Array sized 2048 descending sorted 
+633.0
+Array sized 2048 same elements sorted 
+114.0
+Array sized 2048 random sorted 
+519.0
+Array sized 4096 ascending sorted 
+190.0
+Array sized 4096 descending sorted 
+871.0
+Array sized 4096 same elements sorted 
+166.0
+Array sized 4096 random sorted 
+747.0
+Array sized 4096 ascending sorted 
+342.0
+Array sized 8192 descending sorted 
+1121.0
+Array sized 8192 same elements sorted 
+330.0
+Array sized 8192 random sorted 
+1401.0
+Array sized 16384 ascending sorted 
+670.0
+Array sized 16384 descending sorted 
+2181.0
+Array sized 16384 same elements sorted 
+130.0
+Array sized 16384 random sorted 
+2029.0
+Array sized 32768 ascending sorted 
+3301.0
+Array sized 32768 descending sorted 
+5603.0
+Array sized 32768 same elements sorted 
+571.0
+Array sized 32768 random sorted 
+5725.0
+zed 32768 random sorted 
+5476.0
