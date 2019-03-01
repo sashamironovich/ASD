@@ -20,107 +20,7 @@
     <option name="myAddOrReplace" value="1" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QuickSortStrategyUnitTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/asd/practice5/QuickSortStrategyUnitTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="644">
-              <caret line="47" selection-start-line="47" selection-end-line="47" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SelectionSortStrategyUnitTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/asd/practice5/SelectionSortStrategyUnitTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ShellSortStrategyUnitTester.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/asd/practice5/ShellSortStrategyUnitTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="603">
-              <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Quick3wayBarsStrategyUnitTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/asd/practice5/Quick3wayBarsStrategyUnitTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="36" selection-start-line="36" selection-end-line="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Quick3WayInsertStrategyUnitTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/asd/practice5/Quick3WayInsertStrategyUnitTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QuickInsertSortStrategyUnitTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/asd/practice5/QuickInsertSortStrategyUnitTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="673">
-              <caret line="46" selection-start-line="46" selection-end-line="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeInsertionSortStrategyUnitTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeInsertionSortStrategyUnitTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeWithInsertAndComparingUnitTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeWithInsertAndComparingUnitTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="148">
-              <caret line="22" selection-start-line="22" selection-end-line="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeSortStrategyUnitTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeSortStrategyUnitTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="48" selection-start-line="48" selection-end-line="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MergeWithComparingUnitTester.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeWithComparingUnitTester.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="39" selection-start-line="39" selection-end-line="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -178,7 +78,7 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="68" />
+    <option name="x" value="69" />
     <option name="y" value="32" />
     <option name="width" value="1371" />
     <option name="height" value="823" />
@@ -188,7 +88,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -226,8 +125,9 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -239,7 +139,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
@@ -420,6 +320,8 @@
       <workItem from="1550776986411" duration="13158000" />
       <workItem from="1550828088979" duration="4777000" />
       <workItem from="1550836124987" duration="4891000" />
+      <workItem from="1550961461979" duration="319000" />
+      <workItem from="1551104399702" duration="34000" />
     </task>
     <servers />
   </component>
@@ -456,37 +358,36 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22826000" />
+    <option name="totallyTimeSpent" value="23179000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="68" y="32" width="1371" height="823" extended-state="0" />
-    <editor active="true" />
+    <frame x="69" y="32" width="1371" height="823" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" order="6" />
       <window_info anchor="bottom" id="TODO" order="11" />
-      <window_info anchor="bottom" id="Messages" order="4" weight="0.314367" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="5" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="1" />
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.32859176" />
       <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.32859176" />
       <window_info anchor="bottom" id="Terminal" order="1" />
       <window_info id="Capture Tool" order="1" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="4" visible="true" weight="0.20090294" />
+      <window_info active="true" content_ui="combo" id="Project" order="4" visible="true" weight="0.2069225" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="8" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="2" />
-      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.24609666" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="9" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.24609666" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.314367" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="7" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -500,94 +401,15 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/QuickSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="63" selection-start-line="11" selection-start-column="63" selection-end-line="11" selection-end-column="63" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/BubbleSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="22" column="58" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/CombSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="54" selection-start-line="22" selection-start-column="54" selection-end-line="22" selection-end-column="54" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/HeapSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="21" column="58" selection-start-line="21" selection-start-column="58" selection-end-line="21" selection-end-column="58" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/InsertionSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="28" column="55" selection-start-line="28" selection-start-column="55" selection-end-line="28" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeInsertionSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/MergeSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/BasicSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
-          <caret line="37" column="11" lean-forward="true" selection-start-line="37" selection-start-column="11" selection-end-line="37" selection-end-column="11" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/QuickSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/BubbleSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/CombSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/HeapSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/InsertionSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeInsertionSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/MergeSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/BasicSortStrategyUnitTester.java" />
     <entry file="file://$PROJECT_DIR$/src/MainTest.java" />
     <entry file="file://$PROJECT_DIR$/src/Main.java" />
     <entry file="file://$PROJECT_DIR$/test/MyFirstTest.java" />
@@ -595,288 +417,41 @@
     <entry file="file://$PROJECT_DIR$/src/asd/practice5/SortTester.java" />
     <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeInsertionSortStrategy.java" />
     <entry file="file://$PROJECT_DIR$/src/asd/practice5/InsertionSorter.java" />
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/SortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/ShellSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/BasicSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/BubbleSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="359">
-          <caret line="83" column="17" lean-forward="true" selection-start-line="83" selection-start-column="17" selection-end-line="83" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/Item.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/CombSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1231">
-          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/HeapSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-4172">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/InsertionSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/MergeSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/QuickSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/MergeInsertionSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/SelectionSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-925">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/Sorter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/SortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="64" column="9" lean-forward="true" selection-start-line="64" selection-start-column="9" selection-end-line="64" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/MergeWithComparing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="57" column="37" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/Quick3WayInsertStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="233" column="42" selection-start-line="233" selection-start-column="42" selection-end-line="233" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/Quick3wayBarsStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="59" column="68" selection-start-line="59" selection-start-column="68" selection-end-line="59" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/QuickInsertSortStrategy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="353">
-          <caret line="202" column="48" selection-start-line="202" selection-start-column="48" selection-end-line="202" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/asd/practice5/MergeWithInsertAndComparing.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="26" column="43" selection-start-line="26" selection-start-column="43" selection-end-line="26" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/BasicSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-          <folding>
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#328#329#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/AllUnitTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/BubbleSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/CombSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/HeapSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="164">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/InsertionSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeInsertionSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="48" selection-start-line="48" selection-end-line="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeWithComparingUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeWithInsertAndComparingUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/Quick3wayBarsStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="36" selection-start-line="36" selection-end-line="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/Quick3WayInsertStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="20" selection-start-line="20" selection-end-line="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/QuickInsertSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="673">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/QuickSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="47" selection-start-line="47" selection-end-line="47" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/SelectionSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/asd/practice5/ShellSortStrategyUnitTester.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="603">
-          <caret line="47" column="8" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/SortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/ShellSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/BasicSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/BubbleSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/Item.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/CombSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/HeapSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/InsertionSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/MergeSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/QuickSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/MergeInsertionSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/SelectionSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/Sorter.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/MergeWithComparing.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/Quick3WayInsertStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/Quick3wayBarsStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/QuickInsertSortStrategy.java" />
+    <entry file="file://$PROJECT_DIR$/src/asd/practice5/MergeWithInsertAndComparing.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/BasicSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/AllUnitTests.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/BubbleSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/CombSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/HeapSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/InsertionSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeInsertionSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeWithComparingUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/MergeWithInsertAndComparingUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/Quick3wayBarsStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/Quick3WayInsertStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/QuickInsertSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/QuickSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/ShellSortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/SortStrategyUnitTester.java" />
+    <entry file="file://$PROJECT_DIR$/test/asd/practice5/SelectionSortStrategyUnitTester.java" />
   </component>
   <component name="masterDetails">
     <states>
@@ -934,7 +509,6 @@
             <option name="proportions">
               <list>
                 <option value="0.2" />
-                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
