@@ -1,9 +1,6 @@
 public class WeekDayAlgorithm {
-    public String weekDay[] = {"monday","tuesday","wednesday","thursday","friday","saturday"};
-    public String month[] = {"January","Febraury","March","April","May","June","July","August","September","October","November","December"};
-    public int year[] = new int[2099-1920];
 
-    public static String weekDay(String date){
+    public  String weekDay(String date){
         String weekDay="";
         int numDay;
         int day  = defineDay(date);
@@ -36,12 +33,7 @@ public class WeekDayAlgorithm {
        return weekDay;
     }
 
-    public static void main(String[] args) {
-        System.out.println(weekDay("03 March 2019"));
-
-    }
-
-    private static int defineYear(String date){
+    private int defineYear(String date){
         int year = 0;
         for(int i = date.length()-1, j =1;date.charAt(i)!=32;i--,j*=10){
             if(date.charAt(i)!=0x20){
@@ -55,7 +47,7 @@ public class WeekDayAlgorithm {
 
     }
 
-    private static int defineDay(String date){
+    private int defineDay(String date){
         int day = 0;
         for(int i = 0, j =10;date.charAt(i)!=32;i++,j/=10){
             if(date.charAt(i)!=0x20){
@@ -69,8 +61,8 @@ public class WeekDayAlgorithm {
 
     }
 
-    private static int defineMonth(String date){
-        int month = 0;
+    private  int defineMonth(String date){
+        int month ;
 
         String monthString= "";
         for(int i = 3;date.charAt(i)!=32;i++){
@@ -110,9 +102,5 @@ public class WeekDayAlgorithm {
         }
         return month;
     }
-
-
-
-
 
 }
