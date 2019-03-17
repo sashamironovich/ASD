@@ -138,6 +138,7 @@ public class MySet <E extends Comparable>{
         return true;
     }
 
+
     public  MySet find(Comparable x, MySet... sets) {
         for (int i = 0; i < sets.length - 1; i++) {
             for (int k = i + 1; k < sets.length; k++) {
@@ -147,7 +148,7 @@ public class MySet <E extends Comparable>{
         }
         for (int i = 0; i < sets.length; i++) {
             if (sets[i].contains(x))
-                return sets[i];
+                return sets[i] ;
         }
         return null;
     }

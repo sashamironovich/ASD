@@ -53,10 +53,11 @@ public class Tester {
         A.makeNull(A);
         A.add(22);
         A.add(33);
-
+        A.add(66);
         C.add(44);
         C.add(55);
-        System.out.println(C.find(33,A ,B ,C));
+        C.add(77);
+        System.out.println(C.find(55,A ,B ,C));
 
 
     }
