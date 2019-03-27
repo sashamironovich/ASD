@@ -29,7 +29,7 @@ public class MyGraph<E extends Comparable> {
         public String toString() {
             String str = "";
             for (int i = 0; i < listOut.toArray().length; i++) {
-                System.out.println("Vertex " + i + " is connected to" + listOut.toArray()[i].toString());
+                System.out.println("Vertex " + i + " is connected to " + listOut.toArray()[i].toString());
 
             }
             return str;
