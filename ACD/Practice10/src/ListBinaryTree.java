@@ -54,6 +54,7 @@ public class ListBinaryTree <T extends Comparable> {
         Node child = new Node(son);
         fatherNode.rightSon = child;
         child.parent = fatherNode;
+        size++;
     }
 
 
@@ -65,6 +66,7 @@ public class ListBinaryTree <T extends Comparable> {
         Node child = new Node(son);
         fatherNode.leftSon = child;
         child.parent = fatherNode;
+        size++;
     }
 
     public String toString(){
@@ -116,7 +118,7 @@ public class ListBinaryTree <T extends Comparable> {
         if(nodeToDel.rightSon!=null){
             moveNode((T)nodeToDel.rightSon.value,(T)nodeToDel.value);
         }
-
+        size--;
     }
 
 
