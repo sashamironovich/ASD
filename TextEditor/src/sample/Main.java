@@ -21,6 +21,7 @@ public class Main extends Application {
         primaryStage.setTitle("Myronovych Text Editor");
         primaryStage.setScene(new Scene(root));
         primaryStage.show();
+
     }
 
 
